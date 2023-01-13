@@ -1,0 +1,15 @@
+Package: MCKNNV
+Type: Package
+Title: Monte-Carlo K-Nearest Neighbor Voting
+Version: 0.1.0
+Date: 2022-12-23
+Author: Liyi Bai, Li Min
+Maintainer: Liyi Bai <baily@ccmu.edu.cn>
+Description: This package contains the process of Monte-Carlo K-Nearest Neighbor Voting
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
